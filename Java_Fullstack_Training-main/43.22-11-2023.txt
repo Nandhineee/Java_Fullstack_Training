@@ -1,0 +1,11 @@
+Project: ELECTRONIC GADGET APP
+------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the GET Methods in project
+            -> GET Groceries
+            -> GET Users  
+            -> GET Categories 
+            -> GET Address
+            
+        - Integrated Post method 
+            -> POST Category 

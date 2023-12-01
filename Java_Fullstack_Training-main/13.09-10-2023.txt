@@ -1,0 +1,22 @@
+--------learning jquery---------
+>method like get and post
+>and functions like $(document).ready(function() {.....})
+which is show when page is loaded.
+>and $("#...).submit(function (e){......})
+this function shows when click the submit button
+>and learn how to validate the form using jquery
+
+------------learning typescript--------
+tuples
+fn
+datatype
+enum
+never/any---not recommend
+void---recommend
+object passed in function
+interface
+type
+create array
+
+
+

@@ -1,0 +1,68 @@
+
+
+Java Concepts------------
+ *Datatypes
+   ->Int 
+   ->Float
+   ->Double
+   ->Char
+   ->Boolean 
+   ->Short
+   ->Long
+   ->Byte
+  ->String
+*Array
+->Array Declaration
+->Array Initialization
+->Array Size Specified Declaration
+*Conditions
+->If
+->If-Else
+->Switch
+*Loops
+->For
+->For Each
+->While
+->Do While
+*Math
+*String,String Buffer and String Builder
+*Methods
+->With Arugument
+->Without Arugument
+->With Return Type
+->Without Return Type
+*Try & Catch
+*Scanner class
+Task----
+Build an console app for ATM application
+ ->Balance
+ ->Deposit
+->Withdrawal
+
+ 
+
+ 
+
+Errors-------
+
+    *Array should stored in curly brackets not square brackets. 
+
+    *Array declaration the square bracket comes next to the data type.
+
+    *Each data must be mentioned with that index.
+
+    *Error occurs if the array size is not mentioned.
+
+    *Character declared in single quotes.
+
+    *String in double quotes. String , s must be in capital.
+
+    *Character array doesn't print when it prints with concatenation .
+
+    *If continue used and its true in if condition in loop , the code next to the continue doesn't work.
+
+    *Break statement terminates the loop if the condition is true.
+
+    *String  class is immutable.
+
+    *String buffer and string builder is mutable , can be modified.

@@ -1,0 +1,5 @@
+>learn abot website devlopment with using html and css
+>And learn about css properties
+>spilting the content using css
+>border_radius
+>In css i learn vh which means(view height) and vw which means (view weight)

@@ -1,0 +1,19 @@
+Project: ELECTRONIC GADGET STORE
+------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the POST,PUT and DELETE methods in both admin and user side
+             
+        User side:
+        ----------    
+           
+        - Continued the UI part to do some corrections 
+        - Learn the steps how to upload image file 
+        - Complete the entire User profile UI. 
+        --In Add to cart,i face connectivity error
+
+        Admin Side:
+        -----------
+        
+        -Continued the UI part
+        -Solve exception errors
+        -In Add to cart,i face connectivity error

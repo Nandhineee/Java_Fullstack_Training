@@ -1,0 +1,3 @@
+try to bulid the full website using javascript
+and i do small small function like
+print the array,cal the area using javascript

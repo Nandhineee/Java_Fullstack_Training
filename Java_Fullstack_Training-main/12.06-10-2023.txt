@@ -1,0 +1,6 @@
+--------todo in javascript-----
+how to create,add,delete,edit
+for Loop
+addeventlistener
+Mapfilter in todo
+And also jquery basics

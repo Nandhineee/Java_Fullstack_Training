@@ -1,0 +1,8 @@
+----------learn javascript newly--------------
+how to bulid the full website using javascript
+bulid the html
+bulid the css
+and learning the javascript
+>push
+>innertext
+>innerHTML

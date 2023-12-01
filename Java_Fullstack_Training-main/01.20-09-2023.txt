@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+I Learnt about the processes of devlopment and how server and client connection
+And i learnt about the DNS,Which is use for IP address
+And i learnt about protcols,packets.Also basics of computer (RAM,ROM,CPU,CACHE)
+AND also learnt to install and setup the git and githup
+====
+>>>>>>> 63e8c8e12194182381902c9f2a4cab6ce12aeb73
